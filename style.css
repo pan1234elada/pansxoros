@@ -1,0 +1,390 @@
+  body{
+    margin: 0px;
+  }
+  header {
+    width: 100%;
+    height: 40px;
+    background-color:#AB9173;
+  }
+  .pano {
+    width: 100%;
+    height: 20px;
+    background-color:#AB9173;
+    padding: 10px;
+    position: fixed;
+  }
+  nav {
+    width: 100%;
+    background-color:#564142;
+    height: 130px;
+    position: fixed;
+  }
+  .perithoriomain {
+    width: 100%;
+    height: 1500px;
+  }
+  .del1 {
+    width: 100%;
+    height: auto;
+    float: left;
+  }
+  .del2 {
+    width: 100%;
+    background-color: white;
+    height: auto;
+    float: left;
+  }
+  .del2a {
+    width: 100%;
+    height: 250px;
+    float: left;
+  }
+  .del2b {
+    float: left;
+    margin:10px;
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+  .del2c {
+    width: 58%;
+    margin:60px;
+    margin-right: 80px;
+    background-color: white;
+    height: auto;
+    float: right;
+    font-size: 20px;
+  }
+  .perithorio {
+    width: 100%;
+    background-color: #564142;
+    padding: 20px;
+  }
+  h3 {
+    color: white;
+    font-family: Calibri Light;
+  }
+  a:hover{
+    text-decoration:underline;
+    color: white;
+  }
+  .logo {
+    width: 25%;
+    background-color:  #564142;
+    height: 30px;
+    float: left;
+  }
+  .portfolio {
+    width: 25%;
+    background-color: #564142;
+    height: 30px;
+    float: left;
+  }
+  .om {
+    width: 25%;
+    background-color:  #564142;
+    height: 30px;
+    float: left;
+  }
+  .kontakt {
+    width: 25%;
+    background-color:  #564142;
+    height: 30px;
+    float: left;
+  }
+  footer  {
+    width: 100%;
+    background-color: #564142;
+    height: 30px;
+  }
+  .orizontiosxoros {
+    width: 100%;
+    background-color: #564142;
+    height: 300px;
+  }
+  .stili1 {
+    width: 10%;
+    background-color: #564142;
+    height: 300px;
+    float: left;
+  }
+  .stili2 {
+    width: 20%;
+    background-color: #564142;
+    height: 300px;
+    float: left;
+  }
+  .stili3 {
+    width: 10%;
+    background-color: #564142;
+    height: 300px;
+    float: left;
+  }
+  .stili4 {
+    width: 20%;
+    background-color: #564142;
+    height: 300px;
+    float: left;
+  }
+  .stili5 {
+    width: 10%;
+    background-color: #564142;
+    height: 300px;
+    float: left;
+  }
+  .stili6 {
+    width: 20%;
+    background-color:#564142;
+    height: 300px;
+    float: left;
+  }
+  .stili7 {
+    width: 10%;
+    background-color:#564142;
+    height: 300px;
+    float: left;
+  }
+  h2 {
+    color:#AB9173;
+  }
+  .portf{
+    width: 100%;
+    height: 1400px;
+    float: left;
+    background-color: white;
+  }
+  .portf1 {
+    width: 100%;
+    height: 200px;
+    float: left;
+    padding-top: 20px;
+  }
+  .portf2 {
+    width: 100%;
+    padding-top: 200px;
+    height: 1300px;
+    float: left;
+  }
+  .portf21 {
+    width: 10%;
+    background-color:white;
+    height: 940px;
+    float: left;
+  }
+  .portf22 {
+    width: 20%;
+    background-color:white;
+    height: 940px;
+    float: left;
+  }
+  .portf221 {
+    width: 40%;
+    margin: 120px;
+    margin-left: 420px;
+    height: auto;
+    float: left;
+  }
+  .portf222 {
+    width: 40%;
+    margin: 120px;
+    margin-left: 420px;
+    height: auto;
+    float: left;
+  }
+  .portf223 {
+    width: 40%;
+    margin: 120px;
+    margin-left: 320px;
+    height: auto;
+    float: left;
+  }
+  .portf23 {
+    width: 10%;
+    background-color:white;
+    height: 940px;
+    float: left;
+  }
+  .portf24 {
+    width: 20%;
+    background-color:white;
+    height: 940px;
+    float: left;
+  }
+  .portf241 {
+    width: 40%;
+    margin-top:120px;
+    margin-left: 420px;
+    height: auto;
+    float: left;
+  }
+  .portf241b {
+
+    margin-left: 420px;
+
+    float: left;
+  }
+  .portf242 {
+    width: 40%;
+    margin: 120px;
+    margin-left: 420px;
+    height: auto;
+    float: left;
+  }
+  .portf243 {
+    width: 40%;
+    margin: 120px;
+    margin-left: 420px;
+    height: auto;
+    float: left;
+  }
+  .portf25 {
+    width: 10%;
+    background-color:white;
+    height: 940px;
+    float: left;
+  }
+  .portf26 {
+    width: 20%;
+    background-color:white;
+    height: 940px;
+    float: left;
+ }
+ .portf261 {
+    width: 40%;
+    margin: 120px;
+    margin-left: 420px;
+    height: auto;
+    float: left;
+ }
+ .portf262 {
+    width: 40%;
+    margin: 120px;
+    margin-left: 420px;
+    height: auto;
+    float: left;
+ }
+ .portf263 {
+    width: 40%;
+    margin: 120px;
+    margin-left: 420px;
+    height: auto;
+    float: left;
+ }
+ .portf27 {
+    width: 10%;
+    background-color:white;
+    height: 940px;
+    float: left;
+ }
+ .clearfix {
+    overflow: auto;
+ }
+ .omm{
+    width: 100%;
+    height: 1400px;
+    float: left;
+    background-color: white;
+ }
+ .omm1 {
+    width: 100%;
+    height: 200px;
+    float: left;
+    padding-top: 20px;
+ }
+ .omm2 {
+    width: 100%;
+    padding-top: 200px;
+    height: 1300px;
+    float: left;
+ }
+ .omm21 {
+    width: 5%;
+    background-color:white;
+    height: 940px;
+    float: left;
+ }
+ .omm22 {
+    width: 40%;
+    background-color:white;
+    height: 940px;
+    float: left;
+ }
+ .omm23 {
+    width: 5%;
+    background-color:white;
+    height: 940px;
+    float: left;
+ }
+ .omm24 {
+    width: 40%;
+    background-color:white;
+    height: 940px;
+    float: left;
+ }
+ .omm25 {
+    width: 9%;
+    background-color:white;
+    height: 940px;
+    float: left;
+ }
+ p {
+    font-family: Calibri Light;
+    font-size: 24px;
+ }
+ .kontaktt{
+    width: 100%;
+    height: 1000px;
+    float: left;
+    background-color:white;
+ }
+ .kontaktt1 {
+    width: 100%;
+    height: 200px;
+    float: left;
+    padding-top: 20px;
+    background-color: white;
+ }
+ .kontaktt5 {
+    width: 100%;
+    background-color:white;
+    height: 200px;
+    float: left;
+    margin: 50px;
+    text-transform:uppercase;
+    transition: all 0s ease-in-out;
+ }
+ .kontaktt5 h1{
+    font-size: 32px;
+    line-height: 10px;
+    color: #AB9173;
+ }
+ form {
+    margin-top: 50px;
+    transition: all 0s ease-in-out;
+ }
+ .form-control {
+    width: 600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: #564142;
+    font-size: 18px;
+    margin-bottom: 16px;
+ }
+ input {
+    height: 28px;
+ }
+ form .submit{
+    background: #AB9173;
+    border-color: transparent;
+    color: #564142;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-top: 20px;
+ }
+ form .submit:hover{
+    background-color: #DEB887;
+    cursor: pointer;
+ }
