@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  }
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+a {
+  color: white;
+  font-weight: 300;
+  letter-spacing: 2px;
+  text-decoration: none;
+  background: rgb(238, 13, 13)
+  padding: 20px 5px;
+  display: 
+}
+.flexbox-item-2{
+  min-height: 200px;
+}
+.flexbox-item-3{
+  min-height: 300px;
+}

@@ -1,0 +1,14 @@
+ul.unorderedt{
+  list-style-type: square;
+  background-color: gray;
+}
+li.punkt1 {
+  background-color: blue;
+}
+
+body{
+  background-color: yellow;
+}
+h1{
+  color: blue; font-size: 32px;
+}

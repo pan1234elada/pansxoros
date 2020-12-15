@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sidens titel</title>
+<meta charset="utf-8" />
+<meta name="description" content="Dette er siden til video 2 til vores HTML kursus" />
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+  <h1>Overskrift 1</h1>
+  <h2>Overskrift 2</h2>
+  <h3>Overskrift 3</h3>
+
+ <p>Hello world!<br/><em><a href="hund.html">Link til hundeside</a></em></p>
+ <hr/>
+ <!-- Dette er en kommentar -->
+ <p>Dette er mere tekst</p>
+ <ul>
+   <li>Item 1</li>
+   <li>Item 2
+     <ol>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+      <li>Item 4</li>
+     </ol>
+   </li>
+   <li>Item 3</li>
+   <li>Item 4</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <table>
+   <tr>
+     <th>Virksomhed</th>
+     <th>Navn</th>
+   </tr>
+   <tr>
+     <td>Hansen ApS</td>
+     <td rowspan="2">
+            <table>
+              <tr>
+                <th>Fornavn</th>
+                <th>Efternavn</th>
+              </tr>
+              <tr>
+                 <td>Mogens</td>
+                 <td>Hansen</td>
+              </tr>
+            </table>
+
+       </td>
+   </tr>
+   <tr>
+     <td>Hansen ApS</td>
+   </tr>
+     <tr>
+     <td colspan="2">Pedersen A/S</td>
+
+   </tr>
+ </table>
+</body>
+</html>
